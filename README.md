@@ -30,12 +30,19 @@ Ich möchte in diesem Projekt ein spannendes Zahlenrate spiel machen, bei welche
 | 7   |                 kann|  Rand    | Als Spieler möchte ich die Schwierigkeit nach wiederholtem mal gewinnen ändern, damit das Spiel immer spannend bleibt. |
 | 8  |                 kann|  Qualität    |Als ein Spieler möchte ich einen Farbirgen Hintergrund wie auch eine Farbige Schrift, damit das Spiel nicht so langweilig aussieht.                                    |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
+| 1.1  | Zahl wird eingegeben             |  Eingabe einer Zahl       |  Zahl wird mit der Zufallszahl verglichen                 |
+| 2.1  | Zahl wurde einmal Falsch geraten              | Falsche Zahl         |  Tipp ob die Zufallszahl < oder > als deine Zufallszahl ist.                 |
+| 3.1  | Spieler ratet             |  Falsche Eingabe       |  Eingabe wird wiederholt                 |
+| 4.1  | Spieler wird gefragt, ob die Daten gespeichert werden sollen        |  Ja       | Daten werden gespeichert                  |
+| 5.1  | Spieler wird              |         |                   |
+| 6.1  |              |         |                   |
+| 7.1  |              |         |                   |
+| 8.1  |              |         |                   |
 | 1.1  |              |         |                   |
 | ...  |              |         |                   |
 
