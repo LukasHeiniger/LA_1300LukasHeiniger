@@ -21,14 +21,14 @@ Ich möchte in diesem Projekt ein spannendes Zahlenrate spiel machen, bei welche
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |       |Als ein Spieler möchte ich das ich eine Zahlraten kann, damit ich das Spiel spielen kann. |
-| 2  |                 |      | Als ein Spieler möchte ich das ich Tipps bekomme nach dem Raten, damit ich nicht jede Zahl ausprobieren muss.   |
-| 3    |                 |      | Als ein Spieler möchte ich das fehlerhafte Eingaben abgefangen werden, damit ich das Spiel von vorne beginnen muss. |
-| 4  |                 |      |  Als ein Spieler möchte ich das meine Resultate in einer Datei abgespeichert werden falls ich das möchte, damit ich meine Versuche vergleichen kann.   |
-| 5    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| 6  |                 |      |                                    |
-| 7   |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| 8  |                 |      |                                    |
+| 1    | muss                | funktional       |Als ein Spieler möchte ich das ich eine Zahlraten kann, damit ich das Spiel spielen kann. |
+| 2  | muss                | Rand     | Als ein Spieler möchte ich das ich Tipps bekomme nach dem Raten, damit ich nicht jede Zahl ausprobieren muss.   |
+| 3    |  muss               | funktional     | Als ein Spieler möchte ich das fehlerhafte Eingaben abgefangen werden, damit ich das Spiel von vorne beginnen muss. |
+| 4  |        kann         |   Rand   |  Als ein Spieler möchte ich das meine Resultate in einer Datei abgespeichert werden falls ich das möchte, damit ich meine Versuche vergleichen kann.   |
+| 5    |          kann       | Rand     |Als ein Spieler möchte ich, dass nur eine Datei erstellt wird wenn keine vorhanden ist, damit der Desktop nicht überfluttet wird. |
+| 6  |                kann |   Qualität   |Als ein Spieler möchte ich Sounds, welche den Guess bestätigen, damit man ein besseres Spiel                                    |
+| 7   |                 kann|  Rand    | Als Spieler möchte ich die Schwierigkeit nach wiederholtem mal gewinnen ändern, damit das Spiel immer spannend bleibt. |
+| 8  |                 kann|  Qualität    |Als ein Spieler möchte ich einen Farbirgen Hintergrund wie auch eine Farbige Schrift, damit das Spiel nicht so langweilig aussieht.                                    |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
@@ -41,9 +41,7 @@ Ich möchte in diesem Projekt ein spannendes Zahlenrate spiel machen, bei welche
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
-### 1.4 Diagramme
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 10 Anwendungsfällen ein; und einen PAP.
 
 ## 2 Planen
 
