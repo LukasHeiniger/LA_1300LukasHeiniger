@@ -15,7 +15,7 @@ Projekt von Lukas Heiniger
 
 Ich mache ein Zahlenratespiel, bei welchem man eine zufällig generierte Zahl generiert wird.
 
-Ich möchte in diesem Projekt ein spannendes Zahlenrate spiel machen, bei welchem man die Schwierigkeit selbst auswählen kann. Zudem möchte ich viel mit Try anc catch wie auch mit Funktionen arbeiten, damit der Code leserlicher wird und besser funktioniert. 
+Ich möchte in diesem Projekt ein spannende Zahlenrate spiel machen, bei welchem man die Schwierigkeit selbst auswählen kann. Zudem möchte ich viel mit Try anc catch wie auch mit Funktionen arbeiten, damit der Code leserlicher wird und besser funktioniert. 
 
 ### 1.2 User Stories
 
@@ -66,7 +66,7 @@ Ich möchte in diesem Projekt ein spannendes Zahlenrate spiel machen, bei welche
 
 
 ## 3 Entscheiden
-Ich habe mich während des Projektes dazu entschieden, das ich die rate Zahl nicht auf 100 festlege sonder, das der Benutzer die Schwierigkeit selbst entscheiden kann. Dies soll nicht wie geplant erst nach 
+Ich habe mich während des Projektes dazu entschieden, dass ich die Rate Grenze welche generiert wird nicht auf 100 stelle, sondern dass der Spieler das von Anfang an selbst entscheiden kann.
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
