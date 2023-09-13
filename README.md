@@ -80,20 +80,21 @@ Total:
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1  | 12.09      | funktioniert         | Lukas       |
+| 2.1  | 12.09        |funktioniert           | Lukas          |
+| 3.1  | 12.09        |funktioniert           | Lukas          |
+| 4.1  | 12.09        | funktioniert          |  Lukas         |
+| 5.1  | 12.09        | funktioniert noch nicht         |  Lukas         |
+| 6.1  | 12.09        |   funktioniert        |  Lukas       |
+| 7.1  | 12.09        | funktioniert          |  Lukas         |
+| 8.1  | 12.09        |funktioniert           |  Lukas         |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
-### 5.2 Exploratives Testen
+Fazit:
+Ich denke das Spiel funktioniert recht gut, die meisten Sachen haben auch super funktioniert, deswegen würde ich sagen hat es super funktioniert.
 
-| BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
-| ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
-
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+Portfolio Link
+
