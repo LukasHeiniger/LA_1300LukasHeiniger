@@ -56,9 +56,9 @@ Ich möchte in diesem Projekt ein spannendes Zahlenrate spiel machen, bei welche
 | 1.B  | 23.08       | Lukas          | Erstellen der Abfrage für das Raten + void funktion            |30min               |
 | 2.A  | 30.08      | Lukas          |  Zaheln vergleiche plus attempts einbauen            |45min               |
 | 3.A      | 30.08       | Lukas          |   Try and Catch           |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
+| 4.A  | 30.08     | Lukas          | Datei wird erstellt.             |45min               |
+| 4.B  | 30.08      | Lukas          |              |45min               |
+| 4.C  | 30.08      | Lukas          |              |45min               |
 | 1.A  |       | Lukas          |              |45min               |
 | 1.A  |       | Lukas          |              |45min               |
 | 1.A  |       | Lukas          |              |45min               |
