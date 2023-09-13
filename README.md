@@ -15,7 +15,7 @@ Projekt von Lukas Heiniger
 
 Ich mache ein Zahlenratespiel, bei welchem man eine zufällig generierte Zahl generiert wird.
 
-Ich möchte in diesem Projekt ein spannendes Zahlenrate spiel machen, bei welchem man die Schwierigkeit selbst auswählen kann. Zudem möchte ich viel mit Try anc catch wie auch mit Funktionen arbeiten, damit der Code leserlicher wird und besser funktioniert.
+Ich möchte in diesem Projekt ein spannendes Zahlenrate spiel machen, bei welchem man die Schwierigkeit selbst auswählen kann. Zudem möchte ich viel mit Try anc catch wie auch mit Funktionen arbeiten, damit der Code leserlicher wird und besser funktioniert. 
 
 ### 1.2 User Stories
 
@@ -39,14 +39,12 @@ Ich möchte in diesem Projekt ein spannendes Zahlenrate spiel machen, bei welche
 | 2.1  | Zahl wurde einmal Falsch geraten              | Falsche Zahl         |  Tipp ob die Zufallszahl < oder > als deine Zufallszahl ist.                 |
 | 3.1  | Spieler ratet             |  Falsche Eingabe       |  Eingabe wird wiederholt                 |
 | 4.1  | Spieler wird gefragt, ob die Daten gespeichert werden sollen        |  Ja       | Daten werden gespeichert                  |
-| 5.1  | Spieler wird              |         |                   |
-| 6.1  |              |         |                   |
-| 7.1  |              |         |                   |
-| 8.1  |              |         |                   |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 5.1  | Spieler hat Spiel schon mal gespeichert.              |  Spiel speichern       |     Es wird in die vorhandene Datei geschrieben              |
+| 6.1  | Spieler spielt Spiel             |  Eingabe wird getätigt       | Sound erklingt.                  |
+| 7.1  | Spiel schon mehr mal durchgespielt             | Änderung der Schwierigkeit        |   Schwierigkeit wird geändert                |
+| 8.1  | Spiel wird gestartet             | /        |     Spiel erscheint farbig.              |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 
 
