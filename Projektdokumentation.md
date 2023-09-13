@@ -52,11 +52,10 @@ Ich möchte in diesem Projekt ein spannendes Zahlenrate spiel machen, bei welche
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
+| 1.A  | 23.08      | Lukas          | Erstellen des Zufallsgenerator mit eigener Grenze   |20min               |
+| 1.B  | 23.08       | Lukas          | Erstellen der Abfrage für das Raten + void funktion            |30min               |
+| 2.A  | 30.08      | Lukas          |  Zaheln vergleiche plus attempts einbauen            |45min               |
+| 3.A      | 30.08       | Lukas          |   Try and Catch           |45min               |
 | 1.A  |       | Lukas          |              |45min               |
 | 1.A  |       | Lukas          |              |45min               |
 | 1.A  |       | Lukas          |              |45min               |
