@@ -52,37 +52,38 @@ Ich möchte in diesem Projekt ein spannendes Zahlenrate spiel machen, bei welche
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 23.08      | Lukas          | Erstellen des Zufallsgenerator mit eigener Grenze   |20min               |
+| 1.A  | 23.08      | Lukas          | Erstellen des Zufallsgenerator  |20min               |
 | 1.B  | 23.08       | Lukas          | Erstellen der Abfrage für das Raten + void funktion            |30min               |
 | 2.A  | 30.08      | Lukas          |  Zaheln vergleiche plus attempts einbauen            |45min               |
 | 3.A      | 30.08       | Lukas          |   Try and Catch           |45min               |
 | 4.A  | 30.08     | Lukas          | Datei wird erstellt.             |45min               |
-| 4.B  | 30.08      | Lukas          |              |45min               |
-| 4.C  | 30.08      | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-| 1.A  |       | Lukas          |              |45min               |
-
-
-Total: 
+| 4.B  | 30.08      | Lukas          | Daten werden in Datei gespeichert             |45min               |
+| 5.A  | 30.08      | Lukas          | Datei wird nur erstellt wenn keine vorhanden ist             |45min               |
+| 6.A  | 06.08      | Lukas          | Sound hinzufügen             |45min               |
+| 7.A  | 06.08       | Lukas          | Eigene Schwierigkeit erstellen             |45min               |
+| 8.A  | 06.08       | Lukas          |Farben hinzufügen              |10min               |
 
 
 
 ## 3 Entscheiden
-Ich habe mich während des Projektes dazu entschieden, das ich die rate Zahl nicht auf 100 festlege sonder, das der Benutzer die Schwierigkeit selbst entscheiden kann.
+Ich habe mich während des Projektes dazu entschieden, das ich die rate Zahl nicht auf 100 festlege sonder, das der Benutzer die Schwierigkeit selbst entscheiden kann. Dies soll nicht wie geplant erst nach 
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 1.A  | 23.08      | Lukas          |    20min           |       20min            |
+| 1.B |  23.08      | Lukas          |   30min            |      30min             |
+| 2.A  |30.08       | Lukas          |        45min       |    30min               |
+| 3.A  |30.08       | Lukas          | 45min              |  45min                 |
+| 4.A  |30.08       | Lukas          | 45min              |  45min                 |
+| 4.B  |30.08       | Lukas          | 45min              |         45min          |
+| 5.A  |30.08       | Lukas          | 45min              |    60min               |
+| 6.A  |06.09       | Lukas          | 45min              |    20min               |
+| 7.A  |6.09       | Lukas          | 45min              |  20min                 |
+| 8.A  |6.09       | Lukas          | 10min              |      10min             |
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+Allgemeine Behebung von Fehler rechechieren etc. ca. 120min
+
 
 ## 5 Kontrollieren
 
