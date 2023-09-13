@@ -3,11 +3,11 @@
 
 Projekt von Lukas Heiniger
 
-| Datum | Version | Zusammenfassung                                              |
-| ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| Datum  | Zusammenfassung                                              |
+| ----- | ------------------------------------------------------------ |
+|16.08       |    Anfang mit dem Projekt|
+| 23.08  |    Erster Prototyp                                                          |
+|11.09       |      Fertigstellung des Spieles.                                                        |
 
 ## 1 Informieren
 
@@ -52,19 +52,30 @@ Ich möchte in diesem Projekt ein spannendes Zahlenrate spiel machen, bei welche
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+| 1.A  |       | Lukas          |              |45min               |
+
 
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
-
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
-
+Ich habe mich während des Projektes dazu entschieden, das ich die rate Zahl nicht auf 100 festlege sonder, das der Benutzer die Schwierigkeit selbst entscheiden kann.
 ## 4 Realisieren
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
@@ -97,4 +108,4 @@ Ich denke das Spiel funktioniert recht gut, die meisten Sachen haben auch super 
 ## 6 Auswerten
 
 Portfolio Link
-
+https://portfolio.bbbaden.ch/view/blocks.php?id=31665
